@@ -1,0 +1,5 @@
+Python 3.x
+Streamlit (Web Framework)
+streamlit-lottie (Streamlit Lottie Animations)
+datetime (Python Standard Library for date handling)
+json (Python Standard Library for JSON parsing)
